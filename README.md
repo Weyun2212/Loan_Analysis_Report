@@ -82,15 +82,6 @@ This helps stakeholders in risk assessment, decision-making, and strategic plann
 
 4) Excel/CSV Dataset
 
-
-📁 Project Structure
-Loan-Analysis-Report/
-│
-├── Loan Analysis.pbix          # Main Power BI file
-├── dataset/                    # Input dataset
-├── screenshots/                # Dashboard screenshots
-├── README.md                   # Documentation
-
 📥 How to Use the Dashboard
 
 1) Download the .pbix file.
